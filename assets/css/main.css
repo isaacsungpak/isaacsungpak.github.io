@@ -3809,9 +3809,23 @@ input, select, textarea {
 		line-height: 0;
 	}
 
-	a.pr-l h3:hover{
+	a.pr-l > h3 {
+		margin: 0;
+	}
+
+	a.pr-l > h3:hover {
 		text-decoration: underline 1px;
 	}
+
+	a.pr-l > h5#gh-r {
+		color: #AAA;
+		margin-bottom: 24px;
+	}
+
+	a.pr-l > h5#gh-r:hover {
+		text-decoration: underline 1px;
+	}
+
 
 	#socials {
 		margin-bottom: -10px;
