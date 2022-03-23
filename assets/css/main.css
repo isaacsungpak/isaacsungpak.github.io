@@ -99,9 +99,10 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("../../images/Janna_Watson.jpg");
+		background-image: url("../../images/Janna_Watson.png");
 		background-size: cover;
 		background-position: center;
+		background-attachment: fixed;
 		/* background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #010203 15%, #A06F87 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #010203 15%, #A06F87 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #010203 15%, #A06F87 85%);
