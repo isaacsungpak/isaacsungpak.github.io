@@ -2675,7 +2675,7 @@ input, select, textarea {
 			}
 
 	footer.major {
-		margin-top: 3em;
+		margin-top: 3zem;
 	}
 
 	@media screen and (max-width: 736px) {
